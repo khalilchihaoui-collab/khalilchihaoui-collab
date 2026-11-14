@@ -3,7 +3,7 @@
 I'm a student at [INSAT], studying [Software Engineering].
 
 ## What I'm learning
-- Sql(dartabases), C++, JavaScript
+- Sql(databases), C++, JavaScript
 - Python
 - Git and GitHub
 
