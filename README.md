@@ -1,6 +1,6 @@
 # Hi, I'm Khalil 👋
 
-I'm a student at [INSAT], studying [Software Engineering].
+I'm a student at INSAT, studying Software Engineering.
 
 ## What I'm learning
 - Sql(databases), C++, JavaScript
